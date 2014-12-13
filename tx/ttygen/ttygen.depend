@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1405255827 source:/media/data/c/ttygen/tx/ttygen/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
